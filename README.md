@@ -13,26 +13,27 @@
 As a marketing agency, our primary objective is to maximize the return on investment (ROI) for our clients' advertising campaigns. Having recently executed parallel campaigns on Facebook and Google Ads, we now need to determine which platform yields superior performance across key metrics — clicks, conversions, and cost-effectiveness — to optimize resource allocation and deliver maximum value for our clients.
 
 * **Primary Research Question:** Which advertising platform is better overall—driving higher performance in terms of clicks, conversions, and cost-effectiveness?
-
 ---
 
-## 2. Key Findings
+## 2. Key Findings & Campaign Artifacts
 
-### Headline Metrics
+### Platform Budget Allocation vs. Performance Output
 
-* **The Definitive Winner:** Facebook decisively outperformed Google AdWords across all primary acquisition metrics. Despite receiving only **39.41% ($32K)** of the budget, Facebook generated **double the conversions (4K vs. 2K)** and delivered a **5x higher overall funnel efficiency** (0.5% vs. 0.1% total conversion rate) compared to AdWords.
-* **Funnel Friction Zones:** Google AdWords generated massive exposure (**1,722K views**) but suffered severe mid-funnel drop-offs, yielding a weak **1% Click-Through Rate (CTR)** and a **10% click-to-conversion rate**. Conversely, Facebook demonstrated superior engagement with a **2.02% CTR** and a remarkable **26.66% click-to-conversion rate**.
-* **Efficiency Windows:** Facebook conversions demonstrated strong stability throughout the week, peaking on **Mondays (~660 conversions)**. In terms of seasonality, **October** stood out as a high-efficiency anomaly, driving annual highs in clicks and conversions despite experiencing lower raw impression volumes.
+* **The Strategic Discrepancy:** Facebook decisively won the A/B test, capturing **66.25% of all conversions (4K)** while consuming less than **40% ($32K) of the budget**. It delivered a **5x higher overall funnel efficiency** compared to Google AdWords, which heavily underperformed despite swallowing the majority of the allocation ($49K).
 
-### Campaign Visualizations
+*Insert **spend_conversions.png** here to instantly show recruiters the contrast between budget spend and conversion output side-by-side.*
 
-* **Platform Budget Allocation vs. Performance Output:**
-*Insert **image_d9a320.png** here to instantly show recruiters the massive discrepancy between spend and actual conversions.*
-* **Multi-Tier Campaign Funnel Breakdown:**
-*Insert **image_d9a33c.png** here to highlight the funnel efficiency variance between channels.*
-* **Monthly Cost Per Conversion (CPC) Efficiency Trends:**
-*Insert **image_bb3d88.png** here to display the seasonality curves and the downward cost-per-conversion trajectory by Q4.*
+### Multi-Tier Campaign Funnel Breakdown
+**funnel.png**
+* **Funnel Friction Zones:** Google AdWords generated massive exposure (**1,722K views**) but collapsed mid-funnel, yielding a weak **1% Click-Through Rate (CTR)** and a **10% click-to-conversion rate**. Conversely, Facebook demonstrated superior audience engagement with a **2.02% CTR** and an elite **26.66% click-to-conversion rate**.
 
+*Insert **funnel.png** here to visually demonstrate the dramatic difference in traffic drop-offs between the two platforms.*
+
+### Standalone Channel Cost & Efficiency Trends
+
+* **Sustained Q4 Optimization:** Facebook conversions demonstrated incredible stability, peaking on **Mondays (~660 conversions)**. Monthly tracking shows that while individual acquisition costs peaked in **March (~$8.73 CPC)**, long-term optimizations successfully drove costs down to highly profitable baselines in **July (~$6.83 CPC)** and **November (~$6.85 CPC)**, matching an annual conversion volume surge in **October**.
+
+*Insert **monthly_avg_cpc.png** here to display the line chart showing the downward cost-per-conversion trajectory across the four quarters.*
 ---
 
 ## 3. Recommendations
