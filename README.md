@@ -21,7 +21,7 @@ As a marketing agency, our primary objective is to maximize the return on invest
 
 * **The Strategic Discrepancy:** Facebook decisively won the A/B test, capturing **66.25% of all conversions (4K)** while consuming less than **40% ($32K) of the budget**. It delivered a **5x higher overall funnel efficiency** compared to Google AdWords, which heavily underperformed despite swallowing the majority of the allocation ($49K).
 
-![Spend vs Conversions](EDA/readme_images/spend_conversions.png)
+![Spend vs Conversions](readme_images/spend_conversions.png)
 
 ### Multi-Tier Campaign Funnel Breakdown
 **funnel.png**
