@@ -57,8 +57,7 @@ To deliver institutional-grade certainty, the dataset was processed through a ri
 
 1. **Exploratory Data Analysis (EDA):** Visualized conversion distributions per tier and tracked spending patterns via bubble charts to establish channel linearity and predictability.
 2. **A/B Testing & Funnel Profiling:** Chronologically mapped views, clicks, and conversion volumes weekly and monthly for both campaigns to isolate high-efficiency performance windows.
-3. **Statistical Analysis (Hypothesis Testing):** Deployed a Welch's T-Test to evaluate whether the difference in daily conversion averages between the platforms was statistically significant. The resulting T-statistic of **32.88** and an explicit $p$-value of **$9.35 \times 10^{-134}$** completely rejected the null hypothesis. The number of conversions from Facebook is greater than the
-number of conversions from AdWords. 
+3. **Statistical Analysis (Hypothesis Testing):** Deployed a Welch's T-Test to evaluate whether the difference in daily conversion averages between the platforms was statistically significant. The resulting T-statistic of **32.88** and an explicit $p$-value of **$9.35 \times 10^{-134}$** completely rejected the null hypothesis. The number of conversions from Facebook is greater than the number of conversions from AdWords. 
 4. **Predictive Analysis & Time-Series Cointegration:** Deployed cointegration models to check for stable, long-term equilibrium between spend and conversions, yielding a score of **-14.76** ($p$-value of **$2.13 \times 10^{-26}$**). This was paired with linear regression modeling ($r = 0.87$) to establish a dependable conversion model that maps specific click traffic thresholds directly to expected conversion volume outcomes.
 5. **Marketing Analytics:** Traffic Funnel Optimization (CTR, CPC, Conversion Rates), Client ROI Maximization, and Channel Attribution Strategy.
 
@@ -72,6 +71,7 @@ number of conversions from AdWords.
 ---
 ## 6. Repo Structure
 
+```text
 ├── dashboard/
 │   └── Marketing Campaign.pbix
 ├── Dataset/
