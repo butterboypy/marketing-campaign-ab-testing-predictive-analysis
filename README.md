@@ -1,22 +1,21 @@
 # Marketing Campaign — A/B Testing & Predictive Analysis
 
-## Report & Dashboard
-
-* **Interactive Live Dashboard:** [Explore the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGY2NjY1NGMtNDdlZC00N2FlLWIwOTAtZWY1NzEyMWRlMDk5IiwidCI6IjUzYTg5ZjhiLTY2ZmItNDkzOC05NzM5LTZkMjg4MjIwNWUyMyJ9) 
 * **Complete Documentation:** [Full Executive Analysis Report](Report.pdf)
 
 ## 1. Project Overview
-
-### Interactive Dashboard Demonstration
-
-
-![Power BI Dashboard Walkthrough](readme_images/Dashboard.gif)
 
 ### Business Problem
 
 As a marketing agency, our primary objective is to maximize the return on investment (ROI) for our clients' advertising campaigns. Having recently executed parallel campaigns on Facebook and Google Ads, we now need to determine which platform yields superior performance across key metrics — clicks, conversions, and cost-effectiveness — to optimize resource allocation and deliver maximum value for our clients.
 
 * **Primary Research Question:** Which advertising platform is better overall—driving higher performance in terms of clicks, conversions, and cost-effectiveness?
+
+### Interactive Dashboard Demonstration
+
+![Power BI Dashboard Walkthrough](readme_images/Dashboard.gif)
+
+* **Interactive Live Dashboard:** [Explore the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGY2NjY1NGMtNDdlZC00N2FlLWIwOTAtZWY1NzEyMWRlMDk5IiwidCI6IjUzYTg5ZjhiLTY2ZmItNDkzOC05NzM5LTZkMjg4MjIwNWUyMyJ9) 
+
 ---
 
 ## 2. Key Findings & Insights
