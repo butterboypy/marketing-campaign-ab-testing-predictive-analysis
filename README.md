@@ -1,6 +1,6 @@
 # Marketing Campaign — A/B Testing & Predictive Analysis
 
-* **Complete Documentation:** [Full Executive Analysis Report](Report.pdf)
+**Complete Documentation:** [Check Full Executive Analysis Report](Report.pdf)
 
 ## 1. Project Overview
 
