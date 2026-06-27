@@ -23,15 +23,14 @@ As a marketing agency, our primary objective is to maximize the return on invest
 
 ![Spend vs Conversions](readme_images/spend_conversions.png)
 
-### Multi-Tier Campaign Funnel Breakdown
-**funnel.png**
-* **Funnel Friction Zones:** Google AdWords generated massive exposure (**2M views**) and (**22K clicks**) with a **10% click-to-conversion rate**. Conversely, Facebook demonstrated superior audience engagement with a (**769K views & 16K clicks**) with a **2.02% CTR** and an elite **26.66% click-to-conversion rate**.
+### Campaign Funnel Breakdown
 
 ![Campaign Funnel Breakdown](readme_images/funnel.png)
-
-### Standalone Channel Cost & Efficiency Trends
+* **Funnel Friction Zones:** Google AdWords generated massive exposure (**2M views**) and (**22K clicks**) with a **10% click-to-conversion rate**. Conversely, Facebook demonstrated superior audience engagement with a (**769K views & 16K clicks**) with a **2.02% CTR** and an elite **26.66% click-to-conversion rate**.
 
 ![Trends](readme_images/views_clicks_conversions.png)
+
+### Standalone Channel Cost & Efficiency Trends
 
 * **Sustained Q4 Optimization:** Facebook conversions demonstrated incredible stability, peaking on **Mondays (~660 conversions)**. Monthly tracking shows that while individual acquisition costs peaked in **March (~$8.73 CPC)**, long-term optimizations successfully drove costs down to highly profitable baselines in **July (~$6.83 CPC)** and **November (~$6.85 CPC)**, matching an annual conversion volume surge in **October**.
 
