@@ -25,15 +25,17 @@ As a marketing agency, our primary objective is to maximize the return on invest
 
 ### Multi-Tier Campaign Funnel Breakdown
 **funnel.png**
-* **Funnel Friction Zones:** Google AdWords generated massive exposure (**1,722K views**) but collapsed mid-funnel, yielding a weak **1% Click-Through Rate (CTR)** and a **10% click-to-conversion rate**. Conversely, Facebook demonstrated superior audience engagement with a **2.02% CTR** and an elite **26.66% click-to-conversion rate**.
+* **Funnel Friction Zones:** Google AdWords generated massive exposure (**2M views**) and (**22K clicks**) with a **10% click-to-conversion rate**. Conversely, Facebook demonstrated superior audience engagement with a (**769K views & 16K clicks**) with a **2.02% CTR** and an elite **26.66% click-to-conversion rate**.
 
-![Campaign Funnel Breakdown](EDA/readme_images/funnel.png)
+![Campaign Funnel Breakdown](readme_images/funnel.png)
 
 ### Standalone Channel Cost & Efficiency Trends
 
+![Trends](readme_images/views, clicks, conversions.png)
+
 * **Sustained Q4 Optimization:** Facebook conversions demonstrated incredible stability, peaking on **Mondays (~660 conversions)**. Monthly tracking shows that while individual acquisition costs peaked in **March (~$8.73 CPC)**, long-term optimizations successfully drove costs down to highly profitable baselines in **July (~$6.83 CPC)** and **November (~$6.85 CPC)**, matching an annual conversion volume surge in **October**.
 
-![Monthly Average CPC](EDA/readme_images/monthly_avg_cpc.png)
+![Monthly Average CPC](readme_images/cpc_weekly_trend.png)
 ---
 
 ## 3. Recommendations
@@ -50,10 +52,11 @@ As a marketing agency, our primary objective is to maximize the return on invest
 To deliver institutional-grade certainty, the dataset was processed through a rigorous multi-stage analytics pipeline:
 
 1. **Exploratory Data Analysis (EDA):** Visualized conversion distributions per tier and tracked spending patterns via bubble charts to establish channel linearity and predictability.
-2. **A/B Testing & Funnel Profiling:** Chronologically mapped views, clicks, and conversion volumes weekly and monthly for both campaigns to isolate high-efficiency performance windows and key drop-off zones.
-3. **Statistical Analysis (Hypothesis Testing):** Deployed a Welch's T-Test to evaluate whether the difference in daily conversion averages between the platforms was statistically significant. The resulting T-statistic of **32.88** and an explicit $p$-value of **$9.35 \times 10^{-134}$** completely rejected the null hypothesis.
-4. **Predictive Analysis & Time-Series Cointegration:** Deployed cointegration models to check for stable, long-term equilibrium between spend and conversions, yielding a score of **-14.76** ($p$-value of **$2.13 \times 10^{-26}$**). This was paired with linear regression modeling ($r = 0.87$) to construct a dependable budget forecasting tool.
-5. **Marketing Analytics:** Traffic Funnel Optimization (CTR, CPC, Conversion Rates), Client ROI Maximization, and Multi-Channel Attribution Strategy.
+2. **A/B Testing & Funnel Profiling:** Chronologically mapped views, clicks, and conversion volumes weekly and monthly for both campaigns to isolate high-efficiency performance windows.
+3. **Statistical Analysis (Hypothesis Testing):** Deployed a Welch's T-Test to evaluate whether the difference in daily conversion averages between the platforms was statistically significant. The resulting T-statistic of **32.88** and an explicit $p$-value of **$9.35 \times 10^{-134}$** completely rejected the null hypothesis. The number of conversions from Facebook is greater than the
+number of conversions from AdWords. 
+4. **Predictive Analysis & Time-Series Cointegration:** Deployed cointegration models to check for stable, long-term equilibrium between spend and conversions, yielding a score of **-14.76** ($p$-value of **$2.13 \times 10^{-26}$**). This was paired with linear regression modeling ($r = 0.87$) to establish a dependable conversion model that maps specific click traffic thresholds directly to expected conversion volume outcomes.
+5. **Marketing Analytics:** Traffic Funnel Optimization (CTR, CPC, Conversion Rates), Client ROI Maximization, and Channel Attribution Strategy.
 
 ---
 
