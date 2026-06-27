@@ -47,6 +47,7 @@ As a marketing agency, our primary objective is to maximize the return on invest
 * **Predictive Scaling:** Deploy the linear regression model ($r = 0.87$) to scale Facebook traffic safely to a daily baseline target of **80 clicks**, which predictably forecasts and secures **19.31 daily conversions** with minimal risk.
 * **Chronological Bid Optimization:** Restructure the annual budget to favor the high-efficiency second half of the year (specifically July, November, and October peaks) while pulling back during high-cost windows like March. Apply automated day-of-week bid multipliers to favor **Sundays and Mondays**.
 * **Pivot AdWords to Inbound Intent:** Do not abandon Google Ads entirely; instead, combine both platforms into a unified funnel. Transition AdWords away from broad view-generation to capture the passive brand awareness built by Facebook later, restricting its scope strictly to **high-purchase-intent, exact-match keywords** while auditing the landing page to repair mid-funnel drop-offs.
+In short - Use Facebook ads to market product or service and Adwords for targeting users who are actively searching for the product or service for an immediate solution they are facing problem with.
 
 ---
 
