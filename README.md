@@ -3,7 +3,7 @@
 ## Report & Dashboard
 
 * **Interactive Live Dashboard:** [Explore the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGY2NjY1NGMtNDdlZC00N2FlLWIwOTAtZWY1NzEyMWRlMDk5IiwidCI6IjUzYTg5ZjhiLTY2ZmItNDkzOC05NzM5LTZkMjg4MjIwNWUyMyJ9) 
-* **Complete Documentation:** [View Full Executive Analysis Report](Report.pdf)
+* **Complete Documentation:** [Full Executive Analysis Report](Report.pdf)
 
 ## 1. Project Overview
 
@@ -69,3 +69,15 @@ number of conversions from AdWords.
 * **Power BI :** Dashboard - Dax, ETL, calculated columns, data visualization, data modeling
 
 ---
+## 6. Repo Structure
+
+├── dashboard/
+│   └── Marketing Campaign.pbix
+├── Dataset/
+│   └── marketing_campaign_csv
+├── EDA/
+│   ├── EDA.ipynb
+│   └── readme_images/
+│       └── images used in readme.md
+├── README.md
+└── Report.pdf
