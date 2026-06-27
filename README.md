@@ -31,7 +31,7 @@ As a marketing agency, our primary objective is to maximize the return on invest
 
 ### Standalone Channel Cost & Efficiency Trends
 
-![Trends](readme_images/views, clicks, conversions.png)
+![Trends](readme_images/views_clicks_conversions.png)
 
 * **Sustained Q4 Optimization:** Facebook conversions demonstrated incredible stability, peaking on **Mondays (~660 conversions)**. Monthly tracking shows that while individual acquisition costs peaked in **March (~$8.73 CPC)**, long-term optimizations successfully drove costs down to highly profitable baselines in **July (~$6.83 CPC)** and **November (~$6.85 CPC)**, matching an annual conversion volume surge in **October**.
 
