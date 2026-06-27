@@ -1,6 +1,6 @@
 # Marketing Campaign — A/B Testing & Predictive Analysis
 
-**Complete Documentation:** [Check Full Executive Analysis Report](Report - Marketing Campaign AB Testing & Predictive Analysis.pdf)
+**Complete Documentation:** [Check Full Executive Report](Report.pdf)
 
 ## 1. Project Overview
 
@@ -40,7 +40,7 @@ As a marketing agency, our primary objective is to maximize the return on invest
 ![Monthly Average CPC](readme_images/cpc_weekly_trend.png)
 ---
 
-## 3. Strategic Recommendations
+## 3. Strategic Business Recommendations
 
 * **Budget Reallocation:** Invert the funding structure by transferring **40% of the AdWords budget ($19.6K)** directly into Facebook. This optimization expands standalone Facebook conversions by **61.25% (+2,450 conversions)** and grows total cross-platform conversions by **27.5% at zero additional cost**.
 * **Predictive Scaling:** Deploy the linear regression model ($r = 0.87$) to scale Facebook traffic safely to a daily baseline target of **80 clicks**, which predictably forecasts and secures **19.31 daily conversions** with minimal risk.
