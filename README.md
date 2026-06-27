@@ -1,12 +1,16 @@
-# Multi-Channel Marketing Campaign Performance & Optimization (A/B Testing)
+# Marketing Campaign — A/B Testing & Predictive Analysis
+
+## Report & Dashboard
+
+* **Interactive Live Dashboard:** [Explore the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGY2NjY1NGMtNDdlZC00N2FlLWIwOTAtZWY1NzEyMWRlMDk5IiwidCI6IjUzYTg5ZjhiLTY2ZmItNDkzOC05NzM5LTZkMjg4MjIwNWUyMyJ9) 
+* **Complete Documentation:** [View Full Executive Analysis Report](Report.pdf)
 
 ## 1. Project Overview
 
 ### Interactive Dashboard Demonstration
 
-*Insert your working Power BI dashboard GIF directly below to demonstrate live data visualization capabilities to recruiters.*
 
-![Power BI Dashboard Walkthrough]([Link to your dashboard GIF here])
+![Power BI Dashboard Walkthrough](readme_images/Dashboard.gif)
 
 ### Business Problem
 
@@ -15,7 +19,7 @@ As a marketing agency, our primary objective is to maximize the return on invest
 * **Primary Research Question:** Which advertising platform is better overall—driving higher performance in terms of clicks, conversions, and cost-effectiveness?
 ---
 
-## 2. Key Findings & Campaign Artifacts
+## 2. Key Findings & Insights
 
 ### Platform Budget Allocation vs. Performance Output
 
@@ -30,14 +34,14 @@ As a marketing agency, our primary objective is to maximize the return on invest
 
 ![Trends](readme_images/views_clicks_conversions.png)
 
-### Standalone Channel Cost & Efficiency Trends
+### Cost & Efficiency Trends
 
 * **Sustained Q4 Optimization:** Facebook conversions demonstrated incredible stability, peaking on **Mondays (~660 conversions)**. Monthly tracking shows that while individual acquisition costs peaked in **March (~$8.73 CPC)**, long-term optimizations successfully drove costs down to highly profitable baselines in **July (~$6.83 CPC)** and **November (~$6.85 CPC)**, matching an annual conversion volume surge in **October**.
 
 ![Monthly Average CPC](readme_images/cpc_weekly_trend.png)
 ---
 
-## 3. Recommendations
+## 3. Strategic Recommendations
 
 * **Budget Reallocation:** Invert the funding structure by transferring **40% of the AdWords budget ($19.6K)** directly into Facebook. This optimization expands standalone Facebook conversions by **61.25% (+2,450 conversions)** and grows total cross-platform conversions by **27.5% at zero additional cost**.
 * **Predictive Scaling:** Deploy the linear regression model ($r = 0.87$) to scale Facebook traffic safely to a daily baseline target of **80 clicks**, which predictably forecasts and secures **19.31 daily conversions** with minimal risk.
@@ -61,11 +65,7 @@ number of conversions from AdWords.
 
 ## 5. Skills Demonstrated
 
-* **Python :** Pandas, Matplotlib, Seaborn, Plotly, Numpy, Writing functions, building a product funnel, statistics
-* **Power BI :** Dax, ETL, calculated columns, data visualization, data modeling
+* **Python :** EDA & answered business questions - Pandas, Matplotlib, Seaborn, Plotly, Numpy, Writing functions, building a product funnel, statistics
+* **Power BI :** Dashboard - Dax, ETL, calculated columns, data visualization, data modeling
 
 ---
-
-## 6. Link to Full Report
-
-* Access the complete, comprehensive documentation here: **[View Full Executive Analysis Report](https://www.google.com/search?q=./Executive_Analysis_Report.pdf)**
